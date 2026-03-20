@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chhitize%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Microservices%20%7C%20DSA%20Enthusiast&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chhitize%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Backend%20Heavy%20%7C%20Microservices&descAlignY=55&descSize=16"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chhitize-kumar-b40358202/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/chhitizekumar/)
@@ -16,13 +16,13 @@
 ```java
 public class ChhitizeKumar {
 
-    String role        = "Specialist Programmer @ Infosys (Walmart AEX)";
+    String role        = "Specialist Programmer (Software Engineer) @ Infosys";
     String education   = "B.Tech Computer Engineering, DTU | CGPA: 8.53";
     String location    = "Bangalore, India 🇮🇳";
 
     String[] currentWork = {
-        "Building high-performance microservices for Walmart's AEX platform",
         "Designing scalable REST APIs with Java 17 + Spring Boot",
+        "Building high-performance microservices architectures",
         "Exploring GenAI integrations in production systems"
     };
 
@@ -39,9 +39,9 @@ public class ChhitizeKumar {
 | 🥇 Achievement | 📊 Result |
 |---|---|
 | LeetCode Guardian | Max Rating **2129** — Top **1%** globally |
+| Codeforces Specialist | Competitive Programming rated **Specialist** |
 | JEE Advanced 2020 | AIR **7581** — Top **0.1%** |
 | JEE Mains 2020 | AIR **8621** — Top **0.5%** |
-| Test Coverage at Infosys | Raised from **54% → 95%** with JUnit & Karate |
 
 </div>
 
@@ -49,8 +49,7 @@ public class ChhitizeKumar {
 
 ## 💼 Experience
 
-### 🔷 Infosys — Specialist Programmer *(Jul 2024 – Present)*
-> Working on **Walmart's AEX (Assortment Excellence)** platform
+### 🔷 Infosys — Specialist Programmer (Software Engineer) *(Jul 2024 – Present)*
 
 - ⚡ Reduced assortment planning time by **40%** via granular product selection (fineline/style/color) using **Java Spring Boot + NestJS**
 - 🚀 Cut average API response time by **42%** using parallel stream processing on large datasets
@@ -67,7 +66,7 @@ public class ChhitizeKumar {
 
 ## 🚀 Featured Projects
 
-### 🏋️ AI Powered Fitness Recommendation App
+### 🏋️ AI Powered Fitness Recommendation App &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ChhitizeKumar/AI-Fitness-App)
 > Microservices app delivering personalized workout & diet plans using **Google Gemini AI**
 
 - 🔐 Secure auth with **Keycloak** (OAuth 2.0 + RBAC)
@@ -78,7 +77,7 @@ public class ChhitizeKumar {
 
 ---
 
-### 🐦 Zwitter — Twitter Clone
+### 🐦 Twitter Clone — Zwitter &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ChhitizeKumar/Twitter-Clone)
 > Full-stack Twitter-like app with **6 microservices** architecture
 
 - 👥 Services for users, tweets, media, search & routing
@@ -88,12 +87,34 @@ public class ChhitizeKumar {
 
 ---
 
-### ⚙️ Custom Java HTTP Server
+### ⚙️ Custom Java HTTP Server &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ChhitizeKumar/HTTP-Server)
 > Lightweight, multithreaded HTTP/1.1 server built from scratch — no frameworks
 
 - 🧵 Thread pooling, static file serving, REST-style routing
 - 🔒 Basic auth, JSON handling, MDC logging
 - **Stack:** `Java` `Sockets` `Multithreading`
+
+---
+
+### 🎬 YouTube Backend Clone &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ChhitizeKumar/Youtube_Project)
+> Full-featured YouTube backend system with auth, video handling & social features
+
+- 🔑 JWT-based user authentication & authorization with custom middleware
+- ☁️ **Cloudinary** integration for video/image storage via **Multer** middleware
+- 📊 MongoDB **Aggregate Pipelines** for watch history, user profiles & subscriber counts
+- ❤️ Like, comment, playlist, tweet & subscription models
+- **Stack:** `Node.js` `Express.js` `MongoDB` `Mongoose` `Cloudinary` `JWT` `JavaScript`
+
+---
+
+### 📋 Kanban Board Application &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ChhitizeKumar/Board-Application) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify&logoColor=white)](https://chhitize-kanban-board-app.netlify.app/)
+> Dynamic project management board with flexible grouping & sorting — fully responsive
+
+- 🗂️ Group tickets by **status**, **assigned user**, or **priority** — switchable on the fly
+- 🔃 Sort by priority (descending) or title (ascending)
+- 💾 **Persistent state** — user's view preferences survive page reloads
+- 📱 Fully responsive UI across all device sizes
+- **Stack:** `React.js` `JavaScript` `REST APIs` `CSS`
 
 ---
 
@@ -115,6 +136,7 @@ public class ChhitizeKumar {
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
