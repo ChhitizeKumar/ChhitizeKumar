@@ -38,8 +38,8 @@ public class ChhitizeKumar {
 
 | 🥇 Achievement | 📊 Result |
 |---|---|
-| LeetCode Guardian | Max Rating **2129** — Top **1%** globally |
-| Codeforces Specialist | Competitive Programming rated **Specialist** |
+| Guardian at LeetCode | Max Rating **2129** — Top **1%** globally |
+| Specialist at Codeforces | Competitive Programming rated **Specialist** |
 | JEE Advanced 2020 | AIR **7581** — Top **0.1%** |
 | JEE Mains 2020 | AIR **8621** — Top **0.5%** |
 
