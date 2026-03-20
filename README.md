@@ -2,10 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chhitize%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Backend%20Heavy%20%7C%20Microservices&descAlignY=55&descSize=16"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chhitize-kumar-b40358202/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/chhitizekumar/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChhitizeKumar)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chhitizeathghara11@gmail.com)
+<a href="https://linkedin.com/in/chhitize-kumar-b40358202/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/chhitizekumar/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://github.com/ChhitizeKumar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:chhitizeathghara11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
@@ -38,8 +38,8 @@ public class ChhitizeKumar {
 
 | 🥇 Achievement | 📊 Result |
 |---|---|
-| Guardian at LeetCode | Max Rating **2129** — Top **1%** globally |
-| Specialist at Codeforces | Competitive Programming rated **Specialist** |
+| LeetCode Guardian | Max Rating **2129** — Top **1%** globally |
+| Codeforces Specialist | Competitive Programming rated **Specialist** |
 | JEE Advanced 2020 | AIR **7581** — Top **0.1%** |
 | JEE Mains 2020 | AIR **8621** — Top **0.5%** |
 
@@ -66,7 +66,7 @@ public class ChhitizeKumar {
 
 ## 🚀 Featured Projects
 
-### 🏋️ AI Powered Fitness Recommendation App &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ChhitizeKumar/AI-Fitness-App)
+### 🏋️ AI Powered Fitness Recommendation App &nbsp; <a href="https://github.com/ChhitizeKumar/AI-Fitness-App" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
 > Microservices app delivering personalized workout & diet plans using **Google Gemini AI**
 
 - 🔐 Secure auth with **Keycloak** (OAuth 2.0 + RBAC)
@@ -77,7 +77,7 @@ public class ChhitizeKumar {
 
 ---
 
-### 🐦 Twitter Clone — Zwitter &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ChhitizeKumar/Twitter-Clone)
+### 🐦 Twitter Clone — Zwitter &nbsp; <a href="https://github.com/ChhitizeKumar/Twitter-Clone" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
 > Full-stack Twitter-like app with **6 microservices** architecture
 
 - 👥 Services for users, tweets, media, search & routing
@@ -87,7 +87,7 @@ public class ChhitizeKumar {
 
 ---
 
-### ⚙️ Custom Java HTTP Server &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ChhitizeKumar/HTTP-Server)
+### ⚙️ Custom Java HTTP Server &nbsp; <a href="https://github.com/ChhitizeKumar/HTTP-Server" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
 > Lightweight, multithreaded HTTP/1.1 server built from scratch — no frameworks
 
 - 🧵 Thread pooling, static file serving, REST-style routing
@@ -96,7 +96,7 @@ public class ChhitizeKumar {
 
 ---
 
-### 🎬 YouTube Backend Clone &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ChhitizeKumar/Youtube_Project)
+### 🎬 YouTube Backend Clone &nbsp; <a href="https://github.com/ChhitizeKumar/Youtube_Project" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
 > Full-featured YouTube backend system with auth, video handling & social features
 
 - 🔑 JWT-based user authentication & authorization with custom middleware
@@ -107,7 +107,7 @@ public class ChhitizeKumar {
 
 ---
 
-### 📋 Kanban Board Application &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ChhitizeKumar/Board-Application) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify&logoColor=white)](https://chhitize-kanban-board-app.netlify.app/)
+### 📋 Kanban Board Application &nbsp; <a href="https://github.com/ChhitizeKumar/Board-Application" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a> &nbsp; <a href="https://chhitize-kanban-board-app.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify&logoColor=white"/></a>
 > Dynamic project management board with flexible grouping & sorting — fully responsive
 
 - 🗂️ Group tickets by **status**, **assigned user**, or **priority** — switchable on the fly
